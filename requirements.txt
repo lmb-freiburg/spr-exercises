@@ -1,0 +1,8 @@
+jupyterlab
+jupyter
+notebook
+numpy
+matplotlib
+scikit-learn
+libsvm-official
+pillow

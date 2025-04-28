@@ -9,8 +9,8 @@ The `data` directory contains small datasets that your will need for different e
 
 ## Setup
 
-Follow [setup.pdf](setup.pdf).
-Afterwards you should have a working miniconda installation,
+Follow the instructions in [SETUP.md](SETUP.md).
+Afterwards you should have a working conda installation,
 a python environment with the installed requirements and a clone of this exercise repository.
 All commands assume you run them from the root of the repository folder unless otherwise stated.
 
